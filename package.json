@@ -14,7 +14,7 @@
     "@octokit/graphql-schema": "^7.4.0",
     "@zeit/next-css": "^1.0.1",
     "bs-fetch": "^0.3.1",
-    "codemirror": "^5.54.0",
+    "codemirror": "^5.58.2",
     "docson": "^2.1.0",
     "esm": "^3.2.25",
     "gentype": "^3.1.0",
